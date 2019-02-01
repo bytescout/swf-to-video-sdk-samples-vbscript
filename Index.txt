@@ -3,8 +3,8 @@
 \FLV to AVI
 \FLV to WMV
 \From URL
-\SWF To large PNG (6000x6000)
+\SWF To Large PNG (6000x6000)
 \SWF to PNG
 \SWF To WEBM
 \SWF To WMV
-\SWF with dynamic scene to PNG frames
+\SWF with Dynamic Scene to PNG Frames
